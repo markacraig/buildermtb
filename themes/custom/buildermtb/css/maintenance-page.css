@@ -1,9 +1,9 @@
-body {
+body.maintenance-page {
   background-color: #151515;
   color: #FFFFFF;
 }
 
-img {
+.maintenance-page #coming_soon {
   display: block;
   margin: 0 auto;
   width: 75%;
