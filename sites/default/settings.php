@@ -586,7 +586,7 @@ if ($settings['hash_salt']) {
  *
  * Note: This setting does not apply to installation and update pages.
  */
-# $settings['maintenance_theme'] = 'bartik';
+$settings['maintenance_theme'] = 'buildermtb';
 
 /**
  * PHP settings:
