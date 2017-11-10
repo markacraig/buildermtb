@@ -4,6 +4,7 @@ description: 'Theme for the BuilderMTB website'
 core:  8.x
 libraries:
   - buildermtb/global-styling
+  - buildermtb/maintenance_page
 regions:
   header: Header
   content: Content
